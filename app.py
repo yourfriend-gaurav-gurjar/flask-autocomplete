@@ -24,7 +24,7 @@ def autocomplete():
 
 
 
-def getUserInput()
+def getUserInput():
     """
     1. Get City User Input
     2. Store in "city" variable
