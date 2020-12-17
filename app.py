@@ -23,9 +23,22 @@ def autocomplete():
     return Response(json.dumps(cities), mimetype='application/json')
 
 
+
+def getUserInput()
+    """
+    1. Get City User Input
+    2. Store in "city" variable
+    """
+
+    # city_to_store_in_variable = variable
+    # print(city_to_store_in_variable)
+    pass 
+
+
 @app.route('/', methods=['GET', 'POST'])
 def index():
     form = SearchForm(request.form)
+
     return render_template("search.html", form=form)
 
 if __name__ == '__main__':
