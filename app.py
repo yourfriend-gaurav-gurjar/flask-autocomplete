@@ -30,8 +30,8 @@ def getUserInput()
     2. Store in "city" variable
     """
 
-    # city_to_store_in_variable = variable
-    # print(city_to_store_in_variable)
+    # city = variable
+    # print(city)
     pass 
 
 
