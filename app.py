@@ -29,7 +29,8 @@ def getUserInput():
     1. Get City User Input when he submits (see "Confirm" in search.html)
     2. Store in "city" variable
 
-    Not mandatory to have a function like this, it's just illustrative
+    Not mandatory to have a function like this, it's just illustrative.
+    Point is just to get user input stored in a python variable so that I can reuse it after in the code as a string
     """
 
     # city = variable
