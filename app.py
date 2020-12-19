@@ -28,6 +28,8 @@ def getUserInput():
     """
     1. Get City User Input when he submits (see "Confirm" in search.html)
     2. Store in "city" variable
+
+    Not mandatory to have a function like this, it's just illustrative
     """
 
     # city = variable
